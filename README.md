@@ -38,3 +38,5 @@
 
 
 Не забудь заполнить `PROXY`, `CHANGE_IP_LINK` и `CAPTCHA_KEY` в `settings.py`!
+
+Спасибо за внимание!
